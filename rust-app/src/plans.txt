@@ -1,0 +1,23 @@
+home page
+
+Nav Bar:
+logo
+nav links
+
+landing:
+banner
+title
+buttons
+    get started
+    defend base
+
+
+Get Started:
+How Does It Work?
+How To Log In
+Tools
+cameras
+turrets
+storage
+Server info
+chat

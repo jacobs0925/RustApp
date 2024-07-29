@@ -1,21 +1,21 @@
 {
   "fcm_credentials": {
     "keys": {
-      "privateKey": "vYjiaZ3g7jHOF5n51888IrtcCApj_Xvt-zD325nCr-8",
-      "publicKey": "BOe0u5D4sTMHJYuXk4KRg8D99vs6P9EAGWPH_LF3-4RFoO4a6EyiD3sVP3743Ou0tGo4zFcb39oH4i2X86AMDSg",
-      "authSecret": "IjiHLiz_R81_gwaMAYKV7Q"
+      "privateKey": "DJaa4TeBDhuSri6pOYh8Lor9b246wo8yRVrjr2CyDbo",
+      "publicKey": "BKM6m3FaKBAlhqCEnePIybOeYk0t0iOHiTvsYgvXULdTh3-PrgwHblLz4wYDTyNDaOjGOLBjsf8-c5AI15SukPQ",
+      "authSecret": "xga2YkOO7rcI2dYwOAMs9g"
     },
     "fcm": {
-      "token": "fakP3aE6y_s:APA91bEhnvsqJXuByXZAyAFTAxvkEcsQo4G5VfY_ioK2WLIDin4lLSmmmJg6MA8w0VJb4UMvzDzxfV5ClPQoytWa9Py6crl943Outv8X9D7j4oua1UEykAMuDadqlVmvxH19MxHxwI0q",
-      "pushSet": "eS0ni8535hk"
+      "token": "eLG35Z__pMY:APA91bFIkEd1nNmt1QVeXZHpi9mqFbHLMRPPfzGqAL2iT5UcZGbAPcXkmAlbRpZQKNa4_14blNFlj6aY0qxvNZfGqz2aBxav-LuPEfIXqw9nAypQvWgp-oO_3xZ0vSujhmGwkuC8T4BJ",
+      "pushSet": "d_g0_odJ2Yg"
     },
     "gcm": {
-      "token": "f1xJ7HPU7IE:APA91bFh20oLg4s1PBRT08j3PHa4u4HQD0LR-G55DZJ2lpapqeqP6AnMoLirRqZOzxC1wNP-A0wUJXRlflTs6Tl8TukJ6l8e4IVPCuvPzA3RWqunc9jp03uBEBFHCuK6WQtOiUoH0jcC",
-      "androidId": "4962938999025144211",
-      "securityToken": "6717660718927812517",
-      "appId": "wp:receiver.push.com#94fc9ad7-467f-42fb-aaf7-8dd66f018985"
+      "token": "eRM5zceJhkM:APA91bGf_ya5rYkukR5Gzi0dlRIrnHypHJ00I5hfTNgVu8y6fXPc5eZOjnBEua2ZWPnmqjBskHoCLTt4Xp5RcAG3VMj-1qZynfhHFBWc1CtoIFfcJpvRLLhQGh8zaaPTd1cEJKfsDd6h",
+      "androidId": "4820585441118089835",
+      "securityToken": "5585303040216691885",
+      "appId": "wp:receiver.push.com#800aa8d6-adac-497a-b013-1e7b48c0c92e"
     }
   },
-  "expo_push_token": "ExponentPushToken[RXuPRbK9bB4zDUDc2DskBG]",
-  "rustplus_auth_token": "eyJzdGVhbUlkIjoiNzY1NjExOTgxNjk3MTMzNzkiLCJ2ZXJzaW9uIjowLCJpc3MiOjE3MjEyNjU5NjAsImV4cCI6MTcyMjQ3NTU2MH0=.glmNnAmxx3ef+mI2IP2Ev98XPXKrCqskKV66fkue0tedKWpe6rniBepoT8V4mCfGYOMpSRGgafdgvxZllFwnCQ=="
+  "expo_push_token": "ExponentPushToken[TWU4TUASZjLbrgEe876uKe]",
+  "rustplus_auth_token": "eyJzdGVhbUlkIjoiNzY1NjExOTgxNjk3MTMzNzkiLCJ2ZXJzaW9uIjowLCJpc3MiOjE3MjE1NDQ3MjYsImV4cCI6MTcyMjc1NDMyNn0=.zgmbdBaXdJNDTcYff0DnvmJnJ5V328dm+ZVFvWv1uI6AZMo+353eve8hQC//N5jox/Hf/OCqCclKwX9sEl4JAQ=="
 }

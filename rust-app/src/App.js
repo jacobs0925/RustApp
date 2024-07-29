@@ -1,11 +1,16 @@
+// App.js
 import './App.css';
-import { Test } from './components/Test'
+import Camera from './components/Camera';
+import SignIn from './components/SignIn';
+import PairListener from './components/PairListener';
 
 function App()
 {
     return (
         <div className="App">
-            <Test />
+            <Camera identifier={'TESTER4'} type="Turret" />
+            <SignIn />
+            <PairListener />
         </div>
     );
 }
